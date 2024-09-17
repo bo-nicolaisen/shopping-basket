@@ -2,3 +2,4 @@
 
 bobby
 er test
+nej han er ikke
